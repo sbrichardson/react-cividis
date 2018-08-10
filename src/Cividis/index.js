@@ -1,8 +1,6 @@
 import React from 'react'
 import cividisRgb from './cividisRGB'
 
-console.log(cividisRgb)
-
 const Cividis = ({ colors }) =>
   colors.map(({ red, green, blue }, i) => (
     <div
