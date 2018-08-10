@@ -1,6 +1,11 @@
-Basic React example showing the Cividis Color Map
+
+<img src="https://raw.githubusercontent.com/sbrichardson/react-cividis/master/sample.png" width="200" />
+
+## Basic React example showing the Cividis Color Map
 
 [https://news.ycombinator.com/item?id=17723041](https://news.ycombinator.com/item?id=17723041)
+
+The raw rgb converted values can be seen in src/Cividis/RGB_values_example.js
 
 Using Create-React-App
 
@@ -12,3 +17,4 @@ $ yarn install
 $ yarn start
 
 ```
+
